@@ -5,7 +5,7 @@ import requests
 import json
 from firebase import firebase
 
-bot = telepot.Bot('298670083:AAGxAJHQBTkvNEs8-fL5tEseo3hiAbhn1ZI')
+bot = telepot.Bot('TOKEN')
 
 needs_dict = {}
 haves_dict = {}
