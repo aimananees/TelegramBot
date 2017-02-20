@@ -1,5 +1,5 @@
 # TelegramBot
-A resource allocator bot for which can help refugess to meet their needs.
+A resource allocator bot for which can help refugees to meet their needs.
 
 ## Features
 (1)<b>Need Something:</b>A refugee can specify his/her needs.<br>
