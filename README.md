@@ -7,4 +7,4 @@ A resource allocator bot which can help refugees to meet their needs.
 (3)<b>Want to Study:</b>A refugee can specify which subject he/she wants to study.<br>
 (4)<b>Provide Tuitions:</b>A refugee can provide tuitions to other refugees.<br>
 
-#### This bot was during CarnegieApps Hackathon 2017 conducted at Carnegie Mellon University, Qatar
+#### This bot was made during CarnegieApps Hackathon 2017 conducted at Carnegie Mellon University, Qatar
